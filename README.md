@@ -34,25 +34,31 @@ Without a centralized dashboard, analyzing these insights becomes complex and ti
 ## Dashboard Page 1 – Sales Overview
 
 <p align="center">
-<img src="1.png" width="800">
+<img src="Sales%20Overview.png" width="900">
 </p>
+
+---
 
 ## Dashboard Page 2 – Customer & Product Analysis
 
 <p align="center">
-<img src="2.png" width="800">
+<img src="Customer%20%26%20Product%20Analysis.png" width="900">
 </p>
+
+---
 
 ## Dashboard Page 3 – Sales Trends & Profit Analysis
 
 <p align="center">
-<img src="3.png" width="800">
+<img src="Sales%20Trends%20%26%20Profit%20Analysis.png" width="900">
 </p>
+
+---
 
 ## Dashboard Page 4 – Global Profit Distribution
 
 <p align="center">
-<img src="4.png" width="800">
+<img src="Global%20Profit%20Distribution.png" width="900">
 </p>
 
 ---
